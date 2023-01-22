@@ -1,4 +1,4 @@
-h1 align="center"> Habits </h1>
+<h1 align="center"> Habits </h1>
 
 <h3 align="center" >
 <img align="center" width="30"  alt="Explorer" src=".github/explorer.png">&nbsp;
