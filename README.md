@@ -35,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits e um app para ajudar a rastrear os hábitos. 🚀
 
+- [Visite o projeto online](https://carloscrw.github.io/nlw-setup/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/file/bpvntaASalCXSoMhXgLkh8/Habits-(e)-(Community)?t=PmDKAe1xcaZ0WmJX-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
